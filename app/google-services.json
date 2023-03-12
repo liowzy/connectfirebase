@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525296079775",
+    "project_id": "testing1-ea881",
+    "storage_bucket": "testing1-ea881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525296079775:android:6ee7322341778d91e823aa",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525296079775-17mi44br8n73obg5n56i7pm0j06eg83m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.tarc.connectfirebase",
+            "certificate_hash": "4b43d17ef6102807130d4e49a45ecc585b112f38"
+          }
+        },
+        {
+          "client_id": "525296079775-oq4n5l4km13p5kar6nncb1h3cai4kp4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzmjcVtkdzeVDz9wd9DntpFokjfhLrr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525296079775-oq4n5l4km13p5kar6nncb1h3cai4kp4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

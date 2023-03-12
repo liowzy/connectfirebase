@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">connectfirebase</string>
+    <string name="Name">Name</string>
+    <string name="Position">Position</string>
+    <string name="position">position</string>
+    <string name="name">name</string>
+    <string name="submit">submit</string>
+</resources>
